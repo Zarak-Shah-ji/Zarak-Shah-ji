@@ -38,7 +38,7 @@
   <br>
   💬 Ask me anything from <a href="https://github.com/Zarak-Shah-ji/Zarak-Shah-ji/issues" title="Issues">here</a>
   <br>
-  📫 How to reach me:<a href="mailto: osmandurdag@hotmail.com"> Gmail</a>
+  📫 How to reach me:<a href="mailto: zarak.shah.ji@gmail.com"> Gmail</a>
 </p>
 
 <hr>
