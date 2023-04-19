@@ -42,9 +42,11 @@
 </p>
 <hr> 
 <h2 align="center">🔥 Leetcode Grind 🔥</h2>
-<br>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Zarak_Shahjee)](https://leetcode.com/Zarak_Shahjee)
+<p align="center">
+    <img src="https://leetcard.jacoblin.cool/Zarak_Shahjee" />
+</p>
+
 
 <h2 align="center">🔥 Tech Stack 🔥</h2>
 
