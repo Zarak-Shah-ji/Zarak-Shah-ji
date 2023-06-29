@@ -26,8 +26,11 @@
  <p align="center">
   I am a Software Engineer / Full Stack Developer / Machine Learning Enthusiast  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
   <br>
+   <br>
+   Currently working as a Software Engineer at BMW of North America.
   <br>
-  🔬 I'm gaduating with a Master's degree from California State University Computer Science & Computer Engineering Department in May 2023
+   
+  🔬 I have graduated with a Master's degree from California State University Computer Science & Computer Engineering Department
   <br>
   🎓 I have graduated from Kashmir University Computer Science & Computer Engineering Department
   <br>
