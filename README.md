@@ -29,7 +29,10 @@
    <br>
    Currently working as a Software Engineer at BMW of North America.
   <br>
-   
+   <br>
+    <br>
+     <br> </p>
+    <p align="center">
   🔬 I have graduated with a Master's degree from California State University Computer Science & Computer Engineering Department
   <br>
   🎓 I have graduated from Kashmir University Computer Science & Computer Engineering Department
@@ -101,7 +104,7 @@
   </div>
   <br>
   
-<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Zarak-Shah-ji&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+   <!--<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Zarak-Shah-ji&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p> -->
 
 <hr>
