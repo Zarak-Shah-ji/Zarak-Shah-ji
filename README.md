@@ -39,7 +39,7 @@
   <br>
   🎓 I have graduated from Burn Hall Science High School
   <br>
-  💻 I love writing code and learn new technologies
+  💻 I love writing code and learn new technologies.
   <br>
   📚 I’m currently learning how to build Schedular Web-App with Angular and Node
   <br>
