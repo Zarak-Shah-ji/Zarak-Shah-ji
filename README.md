@@ -48,16 +48,14 @@
   📫 How to reach me:<a href="mailto: zarak.shah.ji@gmail.com"> Gmail</a>
 </p>
 <hr> 
-<h2 align="center">🔥  Leetcode Grind   🔥</h2>
+<h2 align="center">🔥 Leetcode Grind 🔥</h2>
  
 <p align="center">
     <img src="https://leetcard.jacoblin.cool/Zarak_Shahjee" />
 </p>
 
 
-<h2 align="center">🔥  Tech Stack  🔥</h2>
-
-
+<h2 align="center">🔥 Tech Stack 🔥</h2>
 <p align="center">
   <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
