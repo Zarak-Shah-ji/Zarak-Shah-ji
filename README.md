@@ -97,11 +97,11 @@
   
   <br><br><br>
 
-  <h2 align="center">
+  <div align="center">
 
  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</h2>
+</div>
 <br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
