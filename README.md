@@ -97,7 +97,7 @@
   
   <br><br><br>
 
-  <h2 align="center">✍️ Keeps me going:   
+  <h2 align="center">
 
  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
