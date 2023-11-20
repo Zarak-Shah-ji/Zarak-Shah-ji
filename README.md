@@ -109,6 +109,11 @@
     </a>
   </div>
   <br>
+  <div align="center">
+
+[![Zarak's Trophies](https://github-profile-trophy.vercel.app/?username=Zarak-Shah-ji&rank=-B,-C&column=-1&theme=radical&no-bg=true&margin-w=15&margin-h=15)
+
+</div>
   
    <!--<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Zarak-Shah-ji&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p> -->
