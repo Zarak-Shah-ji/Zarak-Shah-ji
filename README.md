@@ -48,7 +48,7 @@
   📫 How to reach me:<a href="mailto: zarak.shah.ji@gmail.com"> Gmail</a>
 </p>
 <hr>
-<h2 align="center">🔥    Leetcode Grind    🔥</h2>
+<h2 align="center">🔥   Leetcode Grind   🔥</h2>
  
 <p align="center">
     <img src="https://leetcard.jacoblin.cool/Zarak_Shahjee" />
