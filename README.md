@@ -111,7 +111,7 @@
   <br>
   <div align="center">
 
-[![Zarak's Trophies](https://github-profile-trophy.vercel.app/?username=Zarak-Shah-ji&rank=-B,-C&column=-1&theme=radical&no-bg=true&margin-w=15&margin-h=15)
+![Zarak's Trophies](https://github-profile-trophy.vercel.app/?username=Zarak-Shah-ji&rank=-B,-C&column=-1&theme=radical&no-bg=true&margin-w=15&margin-h=15)
 
 </div>
   
