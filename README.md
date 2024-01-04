@@ -39,7 +39,7 @@
   <br>
   💻 I love writing code and learn new technologies.
   <br>
-  📚 I’m currently learning how to build Schedular Web-App with Angular and Node
+  📚 I’m currently learning how to build Recommendation System for Auction Website
   <br>
   💬 Ask me anything from <a href="https://github.com/Zarak-Shah-ji/Zarak-Shah-ji/issues" title="Issues">here</a>
   <br>
