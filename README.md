@@ -124,7 +124,16 @@
  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
+
+##Snake game over my contributions 🐍
+
+<p align="center">
+  <img src="https://github.com/Divyam6969/textart/blob/main/github-user-contribution.svg" alt="snake"></center>
+</p>
+
 <br><br><br>
+
+
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarak-Shah-ji&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
