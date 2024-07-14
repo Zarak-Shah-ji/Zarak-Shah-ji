@@ -125,7 +125,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
-##Snake game over my contributions 🐍
+## Snake game over my contributions 🐍
 
 <p align="center">
   <img src="https://github.com/Divyam6969/textart/blob/main/github-user-contribution.svg" alt="snake"></center>
