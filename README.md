@@ -59,9 +59,9 @@
   <br>
   🎓 I have graduated from Burn Hall Science High School
   <br>
-  💻 I love writing code and learn new technologies.
+  💻Exploring the Intersection of Autonomous Driving, Machine Learning, and Computer Vision
   <br>
-  📚 I’m currently learning how to build Recommendation System for Auction Website
+  📚 I’m currently working on buidling a Recommendation System for Auction Website
   <br>
   💬 Ask me anything from <a href="https://github.com/Zarak-Shah-ji/Zarak-Shah-ji/issues" title="Issues">here</a>
   <br>
