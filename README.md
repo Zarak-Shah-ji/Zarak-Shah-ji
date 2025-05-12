@@ -3,7 +3,7 @@
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
   </div>
 <p align="center">
-  
+  <span style="color:black;">I ain't no t</span><span style="color:red;">ourist</span>
 <h1 align="Center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+there!+👋;This+is+Zarak's+GitHub+Profile...;Nice+to+meet+you!&center=true&size=25&width=600" alt="Hello there! This is Zarak's GitHub Profile... Nice to meet you!" />
   </a>
