@@ -46,9 +46,7 @@
  <p align="center">
   I am a Problem Solver. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
   <br>
-   <br>
-   Currently working as a Senior Data Analyst at BMW Financial Services.
-  <br>
+  
    <br>
     <br>
      <br> </p>
