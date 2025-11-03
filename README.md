@@ -1,10 +1,10 @@
 
-<div align="Center">
+<!-- <div align="Center">
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-  </div>
-<p align="center">
+  </div> -->
+<!-- <p align="center">
   <span style="color:black;">I ain't no t</span><span style="color:red;">ourist</span>
-<h1 align="Center">
+<h1 align="Center"> -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+there!+👋;This+is+Zarak's+GitHub+Profile...;Nice+to+meet+you!&center=true&size=25&width=600" alt="Hello there! This is Zarak's GitHub Profile... Nice to meet you!" />
   </a>
 </h1>
@@ -44,13 +44,13 @@
 
 
  <p align="center">
-  I am a Problem Solver. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+  Coding to decrease / increase the problems we have around us. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
   <br>
   
    <br>
     <br>
      <br> </p>
-    <p align="center">
+    <!-- <p align="center">
   🔬 I have graduated with a Master's degree from California State University Computer Science & Computer Engineering Department
   <br>
   🎓 I have graduated from Kashmir University Computer Science & Computer Engineering Department
@@ -59,14 +59,14 @@
   <br>
   💻Exploring the Intersection of Autonomous Driving, Machine Learning, and Computer Vision
   <br>
-  📚 I’m currently working on buidling a Recommendation System for Auction Website
+  📚 I’m currently working on buidling a Recommendation System for Auction Website -->
   <br>
   💬 Ask me anything from <a href="https://github.com/Zarak-Shah-ji/Zarak-Shah-ji/issues" title="Issues">here</a>
   <br>
   📫 How to reach me:<a href="mailto: zarak.shah.ji@gmail.com"> Gmail</a>
 </p>
 <hr>
-<h2 align="center">🔥     Leetcode Grind       🔥</h2>
+<h2 align="center">🔥     Learning Data Structures and thinking of new algorithms       🔥</h2>
  
 <p align="center">
     <img src="https://leetcard.jacoblin.cool/Zarak_Shahjee" />
@@ -101,29 +101,27 @@
 </p>
 </p>
 <hr>
-<h2 align="center">⚡  Stats   ⚡</h2>
+<!-- <h2 align="center">⚡  Stats   ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Zarak-Shah-ji&theme=react&border=61dafb&hide_border=true" alt="Peace" />
-    </a>
+    </a> -->
 <!--       <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Zarak-Shah-ji&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a> -->
   </div>
+   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zarak-Shah-ji&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p> -->
   <br><br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zarak-Shah-ji&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-  <br><br><br>
-
   <div align="center">
 
  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
-## Snake game over my contributions 🐍
+## Contributions 🐍
 
 <p align="center">
   <img src="https://github.com/Divyam6969/textart/blob/main/github-user-contribution.svg" alt="snake"></center>
@@ -138,12 +136,12 @@
     </a>
   </div>
   <br>
-  <div align="center">
+  <!-- <div align="center">
 
 ![Zarak's Trophies](https://github-profile-trophy.vercel.app/?username=Zarak-Shah-ji&rank=-B,-C&column=-1&theme=radical&no-bg=true&margin-w=15&margin-h=15)
 
 </div>
-  
+   -->
    <!--<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Zarak-Shah-ji&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p> -->
 
