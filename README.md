@@ -1,10 +1,13 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Zarak+Shah!+👋;Senior+Data+Scientist+%40+BMW+Group;Building+ML+system
-  s+%26+AI+agents&center=true&size=25&width=600" alt="Zarak Shah — Senior Data Scientist at BMW Group" /></a>                                                              
-   
-  <p align="center">                                                                                                                                                       
+<div align="center">
+    <img                                                                                                                                                                   
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Senior+Data+Scientist+%40+BMW+Group;Building+ML+systems+%26+AI+agents"  
+  alt="Typing SVG" />                                                                                                                                                      
+  </div>        
+                                                                                                                                                                           
+  <p align="center">
     <a href="https://www.linkedin.com/in/zarakshahji/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"             
   alt="LinkedIn"></a>                                                                                                                                                      
-    <a href="mailto:zarak.shah.ji@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>          
+    <a href="mailto:zarak.shah.ji@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   </p>
 
   <p align="center">
@@ -17,15 +20,37 @@
 
   ## What I'm Building
 
-  | Repo | Description | Stack |
-  |------|-------------|-------|
-  | [yeam-agent-system](https://github.com/Zarak-Shah-ji/yeam-agent-system) | 5-agent EHR system for clinical docs, billing appeals, and NL analytics | Next.js,
-  TypeScript, PostgreSQL, Gemini |
-  | [Driver-Drowsiness-Detection](https://github.com/Zarak-Shah-ji/Driver-Drowsiness-Detection) | Compares CV techniques for drowsiness detection via eye/head tracking |
-  Python |
-  | [DeathStar](https://github.com/Zarak-Shah-ji/DeathStar) | CNN-based intrusion detection across microservices | C, Python |
-  | [TYPE2HEART](https://github.com/Zarak-Shah-ji/TYPE2HEART) | Predictive models for diabetes onset and cardiac risk | Python, Jupyter |
-  | [crazyCrypto](https://github.com/Zarak-Shah-ji/crazyCrypto) | Real-time crypto news aggregator with interactive charts | TypeScript |
+  <table>
+    <thead>
+      <tr>
+        <th width="28%">Repo</th>
+        <th width="52%">Description</th>
+        <th width="20%">Stack</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/Zarak-Shah-ji/yeam-agent-system">yeam-agent-system</a></td>
+        <td>5-agent EHR system for clinical docs, billing appeals, and NL analytics</td>
+        <td>Next.js · TS · Gemini</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Zarak-Shah-ji/Driver-Drowsiness-Detection">Driver-Drowsiness-Detection</a></td>
+        <td>Compares CV techniques for drowsiness detection via eye/head tracking</td>
+        <td>Python · OpenCV</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Zarak-Shah-ji/DeathStar">DeathStar</a></td>
+        <td>CNN-based intrusion detection across microservices</td>
+        <td>C · Python</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/Zarak-Shah-ji/TYPE2HEART">TYPE2HEART</a></td>
+        <td>Predictive models for diabetes onset and cardiac risk</td>
+        <td>Python · Jupyter</td>
+      </tr>
+    </tbody>
+  </table>
 
   ## Currently Working On
 
