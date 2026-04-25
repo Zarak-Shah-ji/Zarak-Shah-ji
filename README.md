@@ -1,8 +1,4 @@
-<div align="center">
-    <img                                                                                                                                                                   
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Senior+Data+Scientist+%40+BMW+Group;Building+ML+systems+%26+AI+agents"  
-  alt="Typing SVG" />                                                                                                                                                      
-  </div>        
+       
                                                                                                                                                                            
   <p align="center">
     <a href="https://www.linkedin.com/in/zarakshahji/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"             
@@ -14,7 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=Zarak-Shah-ji&style=flat-square&color=blue" alt="Profile views">
   </p>
 
-  Senior Data Scientist at BMW Group — I build ML systems and AI agents that automate high-stakes workflows, from clinical EHR operations to automotive safety.
+  Senior Data Scientist at BMW Group. I build ML systems and AI agents that automate high-stakes workflows, from clinical EHR operations to automotive safety.
 
   ---
 
