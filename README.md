@@ -28,7 +28,7 @@
       <tr>
         <td><a href="https://github.com/Zarak-Shah-ji/yeam-agent-system">yeam-agent-system</a></td>
         <td>5-agent EHR system for clinical docs, billing appeals, and NL analytics</td>
-        <td>Next.js · TS · Gemini</td>
+        <td>Next.js · TS · LLMs</td>
       </tr>
       <tr>
         <td><a href="https://github.com/Zarak-Shah-ji/Driver-Drowsiness-Detection">Driver-Drowsiness-Detection</a></td>
