@@ -32,7 +32,7 @@
       </tr>
       <tr>
         <td><a href="https://github.com/Zarak-Shah-ji/Driver-Drowsiness-Detection">Driver-Drowsiness-Detection</a></td>
-        <td>Compares CV techniques for drowsiness detection via eye/head tracking</td>
+        <td>Compares Computer Vision techniques for drowsiness detection via eye/head tracking</td>
         <td>Python · OpenCV</td>
       </tr>
       <tr>
