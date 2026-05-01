@@ -50,7 +50,7 @@
 
   ## Currently Working On
 
-  - **yeam-agent-system** — multi-agent EHR system with Gemini-routed intent classification across 5 clinical workflow agents
+  - **yeam-agent-system** — multi-agent EHR system with LLM routed intent classification across 5 clinical workflow agents
   - Survival analysis for heart failure risk prediction — 0.90 AUC on clinical datasets
 
   ---
