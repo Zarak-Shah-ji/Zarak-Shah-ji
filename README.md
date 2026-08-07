@@ -9,8 +9,7 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Zarak-Shah-ji&style=flat-square&color=blue" alt="Profile views">
   </p>
-
-  Senior Data Scientist at BMW Group. I build ML systems and AI agents that automate high-stakes workflows, from clinical EHR operations to automotive safety.
+  
 
   ---
 
