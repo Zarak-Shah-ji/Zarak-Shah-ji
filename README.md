@@ -79,11 +79,7 @@
     </a>
   </div>
 
-  ## Contributions 🐍
 
-  <p align="center">
-    <img src="https://github.com/Divyam6969/textart/blob/main/github-user-contribution.svg" alt="snake">
-  </p>
 
   <div align="center">
 
